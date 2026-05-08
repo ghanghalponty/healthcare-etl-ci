@@ -9,4 +9,3 @@ def test_valid_claim():
 def test_invalid_claim():
     with pytest.raises(ValueError):
         process_claim(-100)
-        
