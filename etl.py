@@ -3,3 +3,4 @@ def process_claim(amount):
         raise ValueError("Invalid claim amount")
 
     return amount * 0.9
+
