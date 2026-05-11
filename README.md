@@ -1,0 +1,1 @@
+[![Healthcare CI](https://github.com/ghanghalponty/healthcare-etl-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/ghanghalponty/healthcare-etl-ci/actions/workflows/ci.yml)
